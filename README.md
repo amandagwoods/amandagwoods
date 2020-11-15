@@ -15,11 +15,20 @@
 
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/amandagarrison787/ "Linkedin").
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandagwoods&theme=onedark&show_icons=true&locale=en" alt="amandagwoods" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandagwoods&theme=onedark&show_icons=true&locale=en&layout=compact" alt="amandagwoods" /></p>
+
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amandagarrison787" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amandagarrison787" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amanda_garrison1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amanda_garrison1" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -57,9 +66,7 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandagwoods&theme=onedark&show_icons=true&locale=en&layout=compact" alt="amandagwoods" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandagwoods&theme=onedark&show_icons=true&locale=en" alt="amandagwoods" /></p>
 
 
 <!--### -%23F24E1E
