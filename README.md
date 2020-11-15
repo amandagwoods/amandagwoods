@@ -1,7 +1,7 @@
 ![Header](https://github.com/amandagwoods/amandagwoods/blob/main/readme_header.png)
 
 
-<h1 align="center">Welcome, I'm Amanda! 🍭</h1>
+<h1 align="center">🌿 Welcome, I'm Amanda! 🌿</h1>
 <h3 align="center">I'm am a full-stack Java web-development student at Codeup.</h3>
 
 
@@ -57,9 +57,9 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandagwoods&theme=bear&show_icons=true&locale=en&layout=compact" alt="amandagwoods" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandagwoods&theme=onedark&show_icons=true&locale=en&layout=compact" alt="amandagwoods" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandagwoods&theme=bear&show_icons=true&locale=en" alt="amandagwoods" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandagwoods&theme=onedark&show_icons=true&locale=en" alt="amandagwoods" /></p>
 
 
 <!--### -%23F24E1E
