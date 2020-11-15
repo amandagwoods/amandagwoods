@@ -1,3 +1,6 @@
+![Header](https://github.com/amandagwoods/amandagwoods/blob/main/readme_header.png)
+
+
 <h1 align="center">Welcome, I'm Amanda! 🍭</h1>
 <h3 align="center">I'm am a full-stack Java web-development student at Codeup.</h3>
 
