@@ -7,9 +7,9 @@
 
 - 😄 Pronouns **she/her**
 
-- 🌱 I’m currently learning **Java and SQL.**
+- 🌱 I’m currently learning **Java, Spring Boot, & SQL.**
 
-- 🔭 I’m currently working on **database design and my portfolio website.**
+- 🔭 I’m currently working on **creating a blog with Spring Boot & my portfolio website.**
 
 - 💬 Ask me about **recent projects, job offers, or my Codeup bootcamp experience.**
 
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe%20indesign%20-%23EE3D8F.svg?&style=for-the-badge&logo=adobe%20indesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/zoom%20-%232D8CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white"/>
   <img src="https://img.shields.io/badge/trello%20-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white"/>
 
